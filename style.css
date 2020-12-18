@@ -1,0 +1,19 @@
+html{
+    font-size: 50.5%;
+    scroll-behavior: smooth;
+}
+body{
+    font-size:200% ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+    text-align: center;
+    background-image:url(images\ \(36\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 200%;
+    font-style: verdana;
+    color: pink;
+    text-align: center;
+}
